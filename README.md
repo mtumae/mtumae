@@ -1,6 +1,2 @@
-
-
-[![mtumae's stats](https://github-readme-stats.vercel.app/api?username=mtumae)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mtumae)](https://git.io/streak-stats)
 
